@@ -1,0 +1,24 @@
+com/uk/tsl/rfid/DeviceListActivity.java
+ com.uk.tsl.rfid.DeviceListActivity
+ com.uk.tsl.rfid.DeviceListActivity$1
+ com.uk.tsl.rfid.DeviceListActivity$2
+ com.uk.tsl.rfid.DeviceListActivity$3
+ com.uk.tsl.rfid.DeviceListActivity$4
+ com.uk.tsl.rfid.DeviceListActivity$5
+ com.uk.tsl.rfid.DeviceListActivity$6
+ com.uk.tsl.rfid.DeviceListActivity$7
+ com.uk.tsl.rfid.DeviceListActivity$8
+com/uk/tsl/rfid/ReaderMedia.java
+ com.uk.tsl.rfid.ReaderMedia
+com/uk/tsl/rfid/devicelist/BuildConfig.java
+ com.uk.tsl.rfid.devicelist.BuildConfig
+com/uk/tsl/rfid/ReaderViewAdapter.java
+ com.uk.tsl.rfid.ReaderViewAdapter
+ com.uk.tsl.rfid.ReaderViewAdapter$ReaderViewHolder
+com/uk/tsl/rfid/ItemClickSupport.java
+ com.uk.tsl.rfid.ItemClickSupport
+ com.uk.tsl.rfid.ItemClickSupport$1
+ com.uk.tsl.rfid.ItemClickSupport$2
+ com.uk.tsl.rfid.ItemClickSupport$3
+ com.uk.tsl.rfid.ItemClickSupport$OnItemClickListener
+ com.uk.tsl.rfid.ItemClickSupport$OnItemLongClickListener

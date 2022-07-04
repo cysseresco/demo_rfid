@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+		INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:5:5-13:19
+	android:allowBackup
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:6:9-35
+activity#com.uk.tsl.rfid.DeviceListActivity
+ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:8:9-12:20
+	android:label
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:11:14-51
+	android:configChanges
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:10:14-64
+	android:theme
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:9:14-70
+	android:name
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml:8:19-68
+uses-sdk
+INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+		INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+		ADDED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
+		INJECTED from /Users/diegitsen/Desktop/devs/devsSeresco/TestRFID/DeviceList/src/main/AndroidManifest.xml
